@@ -1,9 +1,10 @@
 <?php
 // URLs que você deseja abrir
 $urls = [
-    "http://www.primeirosite.com",
-    "http://www.segundosite.com",
-    "http://www.terceirosite.com"
+    "https://www.coursera.org/my-learning?myLearningTab=IN_PROGRESS",
+    "https://www.cod3r.com.br/enrollments",
+    "https://skillsforall.com/pt/",
+    "https://www.certificacaotecnica.com.br/course/view.php?id=3886"
 ];
 
 foreach ($urls as $url) {
